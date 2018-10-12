@@ -6,4 +6,5 @@ function setup() {
 }
 
 function draw() {
+    triangle(50, 1, 1, 50, 99, 99);
 }
