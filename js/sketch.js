@@ -6,6 +6,7 @@ function setup() {
 }
 
 function draw() {
+    noStroke();
     fill(0, 127, 226);
     triangle(50, 1, 1, 50, 99, 99);
 }
